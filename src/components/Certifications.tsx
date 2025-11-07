@@ -4,12 +4,14 @@ import { useRef } from "react";
 import { Award } from "lucide-react";
 
 const certifications = [
-  "C++ Programming - Infosys Springboard",
-  "Microsoft Gen AI - Microsoft",
-  "Python Essentials I - Cisco Networking Academy",
-  "Python Essentials II - Cisco Networking Academy",
-  "CCNA Level I - Cisco Networking Academy",
-  "CCNA Level II - Cisco Networking Academy",
+  "Infosys Springboard - AI & ML Fundamentals",
+  "Udemy - Full Stack Web Development",
+  "LearnTube - Python Programming",
+  "Power BI - Data Visualization",
+  "Cloud Computing Essentials",
+  "Cybersecurity Fundamentals",
+  "Git & GitHub Workshop",
+  "UI/UX Design Principles",
 ];
 
 const Certifications = () => {

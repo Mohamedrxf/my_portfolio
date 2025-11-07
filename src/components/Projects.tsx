@@ -7,14 +7,34 @@ import { ExternalLink } from "lucide-react";
 
 const projects = [
   {
-    title: "Telemedicine Access Platform for Rural Healthcare",
-    description: "Smart India Hackathon 2025 - Multilingual telemedicine app with video consultations and offline health records (IndexedDB + PWA). Built hybrid USSD + IVR emergency support system for feature phones, increasing healthcare access by 40%.",
-    technologies: ["React.js", "Vite", "TypeScript", "Tailwind CSS", "Supabase", "Flask", "TensorFlow"],
+    title: "Telemedicine Access Platform",
+    description: "SIH 2025 project - A comprehensive platform connecting patients with healthcare providers through virtual consultations",
+    technologies: ["ReactJS", "Node.js", "AI Integration", "Healthcare APIs"],
   },
   {
-    title: "AI-Powered Symptom Analysis and Disease Prediction System",
-    description: "Created synthetic dataset generator for patient symptom–disease records. Developed multi-label ML model to predict diseases with 95% accuracy using advanced machine learning techniques.",
-    technologies: ["Python", "TensorFlow", "Keras", "Scikit-Learn", "Pandas", "NumPy"],
+    title: "MediCare",
+    description: "Healthcare platform streamlining patient management and appointment scheduling",
+    technologies: ["ReactJS", "Flask", "SQL", "Healthcare Tech"],
+  },
+  {
+    title: "Symptom-based Disease Prediction",
+    description: "AI-powered system using machine learning to predict diseases based on symptoms",
+    technologies: ["Python", "Scikit-learn", "Flask", "AI/ML"],
+  },
+  {
+    title: "AgriCare Platform",
+    description: "Agricultural technology platform helping farmers with crop management and disease detection",
+    technologies: ["ReactJS", "Python", "Computer Vision", "AgriTech"],
+  },
+  {
+    title: "Lamborghini Website",
+    description: "Full-stack luxury automotive website with immersive user experience",
+    technologies: ["ReactJS", "Node.js", "JavaScript", "Responsive Design"],
+  },
+  {
+    title: "Student Portfolio Website",
+    description: "Professional portfolio platform for students to showcase their work and achievements",
+    technologies: ["ReactJS", "Tailwind CSS", "Responsive Design"],
   },
 ];
 

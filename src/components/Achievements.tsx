@@ -6,27 +6,27 @@ import { Trophy, Award, Code } from "lucide-react";
 const achievements = [
   {
     icon: Trophy,
-    title: "GeoNova Hackathon",
-    description: "1st Prize - National Level HealthTech",
+    title: "Geonova Hackathon Winner",
+    description: "1st Prize in HealthTech Category",
     highlight: "🏆 Champion",
   },
   {
     icon: Award,
-    title: "Hack-4-Mini 2.0",
-    description: "3rd Place - ML-based genetic disease identification",
-    highlight: "Solo Team",
+    title: "HackRx Qualifier",
+    description: "Qualified till Round 3",
+    highlight: "Top Performer",
   },
   {
     icon: Code,
-    title: "Smart India Hackathon 2025",
-    description: "Selected among Top 45 teams nationwide",
-    highlight: "National Level",
+    title: "CodeMini 2.0",
+    description: "Tamil Nadu level selection",
+    highlight: "State Level",
   },
 ];
 
 const stats = [
   {
-    number: "250+",
+    number: "500+",
     label: "LeetCode Problems",
   },
   {
@@ -34,8 +34,8 @@ const stats = [
     label: "HackerRank Problems",
   },
   {
-    number: "400+",
-    label: "CodeChef Problems",
+    number: "9.32",
+    label: "College CGPA",
   },
 ];
 
@@ -102,7 +102,7 @@ const Achievements = () => {
               ))}
             </div>
             <p className="text-white/80 text-center mt-6 text-sm">
-              Focused on Algorithms, Data Structures & Fundamentals
+              Active on CodeChef, GeeksforGeeks, LeetCode, and HackerRank
             </p>
           </div>
         </motion.div>

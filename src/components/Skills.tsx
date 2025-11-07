@@ -7,27 +7,27 @@ const skillCategories = [
   {
     icon: Code2,
     title: "Programming Languages",
-    skills: ["Python", "C", "C++", "Java", "SQL", "JavaScript"],
+    skills: ["Python", "C++", "C", "Java", "JavaScript", "SQL"],
   },
   {
     icon: Wrench,
     title: "Frameworks & Libraries",
-    skills: ["React.js", "Node.js", "Flask", "TensorFlow", "Scikit-Learn"],
+    skills: ["ReactJS", "Flask", "Node.js", "Tkinter", "Scikit-learn"],
   },
   {
     icon: Wrench,
     title: "Tools & Platforms",
-    skills: ["Git", "GitHub", "Figma", "Google Colab", "Postman"],
+    skills: ["Git", "GitHub", "Figma", "Google Colab", "LeetCode", "CodeChef"],
   },
   {
     icon: Database,
     title: "Databases",
-    skills: ["MySQL", "MongoDB", "PostgreSQL"],
+    skills: ["SQL", "MySQL", "PostgreSQL"],
   },
   {
     icon: Users,
     title: "Soft Skills",
-    skills: ["Technical Storytelling", "Learning Agility", "Innovation Ownership"],
+    skills: ["Leadership", "Problem-Solving", "Communication", "Teamwork"],
   },
 ];
 
