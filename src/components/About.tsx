@@ -22,15 +22,14 @@ const About = () => {
           
           <div className="bg-card rounded-2xl p-8 md:p-12 shadow-lg">
             <p className="text-lg leading-relaxed text-muted-foreground">
-              I'm a passionate Full Stack Developer and AI Enthusiast currently pursuing my B.E. in Computer Science and Engineering 
-              at SRM Easwari Engineering College with a CGPA of 9.32. With a strong foundation in both frontend and backend technologies, 
-              I specialize in creating innovative solutions that blend cutting-edge AI capabilities with user-centric design.
+              I'm a passionate Full-stack Developer dedicated to building scalable, end-to-end solutions integrated with AI and ML models. 
+              I specialize in designing systems that blend intelligent automation with seamless user experiences, creating impactful 
+              software that solves real-world challenges.
             </p>
             <p className="text-lg leading-relaxed text-muted-foreground mt-4">
-              My journey in technology has been driven by a relentless curiosity to solve real-world problems. From developing healthcare 
-              platforms that improve patient care to building AI-powered applications, I'm committed to creating digital solutions that 
-              make a meaningful impact. With over 500 problems solved on LeetCode and experience across multiple internships, I bring 
-              both theoretical knowledge and practical expertise to every project I undertake.
+              Currently pursuing my B.E. in Computer Science and Engineering at SRM Easwari Engineering College with a CGPA of 8.5, 
+              I'm driven by innovation and technical excellence. From developing telemedicine platforms for rural healthcare to building 
+              AI-powered disease prediction systems, I bring both theoretical knowledge and hands-on expertise to every project.
             </p>
           </div>
         </motion.div>

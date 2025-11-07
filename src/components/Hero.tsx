@@ -27,7 +27,7 @@ const Hero = () => {
             className="w-32 h-32 mx-auto mb-8 rounded-full bg-gradient-to-br from-primary to-secondary p-1"
           >
             <div className="w-full h-full rounded-full bg-card flex items-center justify-center text-4xl font-bold gradient-text">
-              MR
+              RS
             </div>
           </motion.div>
 
@@ -37,7 +37,7 @@ const Hero = () => {
             transition={{ delay: 0.3, duration: 0.8 }}
             className="text-5xl md:text-7xl font-bold mb-4"
           >
-            Mohamed Rafeeq Khan A
+            RISHI SAI VIJAY SAI
           </motion.h1>
 
           <motion.h2
@@ -46,7 +46,7 @@ const Hero = () => {
             transition={{ delay: 0.4, duration: 0.8 }}
             className="text-2xl md:text-3xl gradient-text font-semibold mb-6"
           >
-            Full Stack Developer | AI Enthusiast
+            Full Stack Developer | AI & ML Engineer
           </motion.h2>
 
           <motion.p
@@ -55,7 +55,7 @@ const Hero = () => {
             transition={{ delay: 0.5, duration: 0.8 }}
             className="text-lg md:text-xl text-muted-foreground mb-8 max-w-2xl mx-auto"
           >
-            Building smart, creative, and user-focused digital solutions
+            Building scalable, intelligent, and impactful software solutions
           </motion.p>
 
           <motion.div
@@ -79,7 +79,7 @@ const Hero = () => {
             transition={{ delay: 0.7, duration: 0.8 }}
             className="flex gap-6 justify-center mb-12"
           >
-            <a href="mailto:mohamedrafeeqkhanrafeeq@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
+            <a href="mailto:rishisai23@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
               <Mail className="w-6 h-6" />
             </a>
             <a href="#" className="text-muted-foreground hover:text-primary transition-colors">

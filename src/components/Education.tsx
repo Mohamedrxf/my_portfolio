@@ -8,19 +8,19 @@ const education = [
     degree: "B.E. Computer Science and Engineering",
     institution: "SRM Easwari Engineering College",
     year: "2023 - 2027",
-    grade: "CGPA: 9.32",
+    grade: "CGPA: 8.5",
   },
   {
     degree: "Higher Secondary Certificate (HSC)",
     institution: "Secondary Education",
     year: "2023",
-    grade: "92%",
+    grade: "85%",
   },
   {
     degree: "Secondary School Leaving Certificate (SSLC)",
     institution: "Secondary Education",
     year: "2021",
-    grade: "90%",
+    grade: "94%",
   },
 ];
 
